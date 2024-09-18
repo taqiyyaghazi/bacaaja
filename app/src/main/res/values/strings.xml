@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BacaAja</string>
+
+    <string name="articles_title">Judul Artikel</string>
+    <string name="description">Deskripsi</string>
+    <string name="user">User</string>
+
+    <string-array name="data_title">
+        <item>Fundamental Skills for becoming Performant Software Architect</item>
+        <item>Idempotency Keys in RESTful APIs</item>
+        <item>11 Open-Source SaaS Killer—Selfhost With Docker</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Master Plan for becoming a Software Architect</item>
+        <item>Building secure APIs</item>
+        <item>Selfhost Supabase, Grafana, Uptime Kuma, NocoDB, Dokku, Appwrite, N8N, Redash, Jitsi, Plausible and Nextcloud with docker</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*Xl9kecR3GVoGHEjn</item>
+        <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*Fe0kBRyNdgWGyV4c</item>
+        <item>https://miro.medium.com/v2/resize:fill:160:106/1*kFosUQQC_vn4NOeZ57RYnw.png</item>
+    </string-array>
+</resources>
