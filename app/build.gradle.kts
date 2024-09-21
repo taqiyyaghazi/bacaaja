@@ -27,6 +27,11 @@ android {
             )
         }
     }
+
+    buildFeatures {
+        viewBinding = true
+    }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
@@ -48,4 +53,5 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
     implementation(libs.glide)
+    implementation(libs.androidx.core.splashscreen)
 }
