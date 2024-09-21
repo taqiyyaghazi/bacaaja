@@ -22,11 +22,11 @@
         <item>11 Open-Source SaaS Killer—Selfhost With Docker</item>
         <item>How Canva reduces trial cancellation</item>
         <item>Why Fast Growth Isn’t Always the Holy Grail</item>
-        <item>Fundamental Skills for becoming Performant Software Architect</item>
-        <item>Idempotency Keys in RESTful APIs</item>
-        <item>11 Open-Source SaaS Killer—Selfhost With Docker</item>
-        <item>How Canva reduces trial cancellation</item>
-        <item>Why Fast Growth Isn’t Always the Holy Grail</item>
+        <item>Mastering Website Performance: Advanced Techniques for Optimizing DNS, HTTP, and Browser Caching</item>
+        <item>Resolving Common Issues in Event-Driven Architecture</item>
+        <item>FastAPI Best Practices and Design Patterns: Building Quality Python APIs</item>
+        <item>The Ultimate Guide to Becoming a Top-Tier Freelance Web Developer</item>
+        <item>10 Habits of Great Software Engineers</item>
     </string-array>
 
     <string-array name="data_description">
@@ -35,24 +35,24 @@
         <item>Selfhost Supabase, Grafana, Uptime Kuma, NocoDB, Dokku, Appwrite, N8N, Redash, Jitsi, Plausible and Nextcloud with docker</item>
         <item>A round of applause for personalisation, transparency and trust</item>
         <item>It can be one quick way to ruin a great start-up</item>
-        <item>Master Plan for becoming a Software Architect</item>
-        <item>Building secure APIs</item>
-        <item>Selfhost Supabase, Grafana, Uptime Kuma, NocoDB, Dokku, Appwrite, N8N, Redash, Jitsi, Plausible and Nextcloud with docker</item>
-        <item>A round of applause for personalisation, transparency and trust</item>
-        <item>It can be one quick way to ruin a great start-up</item>
+        <item>Boost Your Site Speed and User Experience with Effective Caching Strategies, DNS Optimization, and Modern Protocols</item>
+        <item>Introduction</item>
+        <item>In recent years, FastAPI has emerged as one of the most popular frameworks for building Python APIs thanks to its simplicity, speed and…</item>
+        <item>Giving up the 9-to-5 for the freedom and flexibility of freelance work sounds extremely interesting, doesn’t it? But, before you dive…</item>
+        <item>Great developers tend to have a lot of little habits that they don’t teach in Computer Science courses or web development bootcamps, and…</item>
     </string-array>
 
     <string-array name="data_photo">
         <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*Xl9kecR3GVoGHEjn</item>
         <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*Fe0kBRyNdgWGyV4c</item>
         <item>https://miro.medium.com/v2/resize:fill:160:106/1*kFosUQQC_vn4NOeZ57RYnw.png</item>
-        <item>https://picsum.photos/200</item>
+        <item>https://miro.medium.com/v2/resize:fill:160:106/1*IfN_AwqFNXTrouTTjPkHrA.png</item>
         <item>https://miro.medium.com/v2/resize:fill:160:106/1*rarN9kQWBfkRyofQq_JdkQ.jpeg</item>
-        <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*Xl9kecR3GVoGHEjn</item>
-        <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*Fe0kBRyNdgWGyV4c</item>
-        <item>https://miro.medium.com/v2/resize:fill:160:106/1*kFosUQQC_vn4NOeZ57RYnw.png</item>
-        <item>https://picsum.photos/200</item>
-        <item>https://miro.medium.com/v2/resize:fill:160:106/1*rarN9kQWBfkRyofQq_JdkQ.jpeg</item>
+        <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*dUOjFYqMXZQl9Z8b</item>
+        <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*ef5vZOr1oEDVpi1e</item>
+        <item>https://miro.medium.com/v2/resize:fill:160:106/1*KvPKKlfXds2JT4YLqXhoJg.png</item>
+        <item>https://miro.medium.com/v2/resize:fill:160:106/1*6H3l3zYZVniI90vnwCqmTA.jpeg</item>
+        <item>https://miro.medium.com/v2/resize:fill:160:106/g:fp:0.5:0.41/1*WDr9vT0blTQY7tfE1nMwHQ.png</item>
     </string-array>
 
     <string-array name="data_content">
@@ -77,24 +77,23 @@
             Moreover, fast growth can also obscure deeper issues within a company. When expanding rapidly, businesses may overlook problems such as unrefined processes, weak internal culture, or a lack of long-term vision. These underlying challenges can manifest later as the company faces greater demands, leading to instability or even failure. Therefore, it’s crucial for businesses to strike a balance between ambition and stability, ensuring that growth aligns with a clear mission and the resources necessary to sustain success over time.
         </item>
         <item>
-            Becoming a software architect requires a strategic blend of technical expertise, leadership skills, and a deep understanding of system design. The journey typically begins with mastering core programming concepts, design patterns, and data structures. As an aspiring architect, you should focus on becoming proficient in multiple programming languages and understanding the underlying principles of software engineering, including object-oriented design, microservices, and distributed systems. Practical experience with building scalable, maintainable, and efficient software solutions is crucial, alongside the ability to analyze trade-offs between various technologies and architectural approaches.
-            Beyond technical skills, aspiring architects must also hone their communication, problem-solving, and leadership abilities. A software architect often acts as a bridge between development teams, stakeholders, and clients, ensuring that the technical vision aligns with business goals. Gaining experience in team leadership, project management, and system documentation will help you navigate this role effectively. Staying up-to-date with industry trends, cloud computing, and emerging technologies is also essential for architects to make informed decisions and craft future-proof solutions.
+            Achieving optimal website performance requires a deep understanding of how DNS, HTTP, and browser caching can be fine-tuned to reduce latency and improve load times. DNS optimization, for instance, can be enhanced by reducing lookup times through DNS caching, using geographically distributed DNS servers, or employing services like Anycast. By ensuring faster domain resolution, users experience quicker access to content. Additionally, reducing the number of HTTP requests and leveraging persistent connections through HTTP/2 or HTTP/3 helps minimize delays in data transmission, leading to faster page loads.
         </item>
         <item>
             Creating secure APIs is a critical task in modern software development, as APIs serve as gateways to your system\'s data and functionality. The foundation of API security begins with proper authentication and authorization, ensuring that only authorized users or systems can access specific resources. Common practices include implementing OAuth for token-based authentication, enforcing HTTPS for secure communication, and utilizing API keys or JWT tokens to authenticate requests. Rate limiting, IP whitelisting, and using strong encryption for sensitive data in transit and at rest further fortify the security of your API.
             Another key aspect of building secure APIs is validating and sanitizing user input to protect against common vulnerabilities such as SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF). Proper error handling and logging are also essential for identifying potential threats while avoiding exposing sensitive information in error messages. Regular security audits, adopting secure coding practices, and integrating automated security testing in your CI/CD pipeline can help maintain the integrity of your API as your system grows and evolves.
         </item>
         <item>
-            Self-hosting a suite of applications such as Supabase, Grafana, Uptime Kuma, NocoDB, Dokku, Appwrite, N8N, Redash, Jitsi, Plausible, and Nextcloud can be efficiently managed using Docker. Docker\'s containerization technology allows you to encapsulate each application along with its dependencies into isolated containers, simplifying deployment and management. Begin by setting up a Docker environment on your server, ensuring you have Docker and Docker Compose installed. For each application, create Docker Compose files that define the necessary services, networks, and volumes to orchestrate the containers. This approach enables you to deploy and manage each application with ease, while also maintaining clear separation between them.
-            Configuring and securing your self-hosted applications involves setting up environment variables, securing sensitive data, and implementing appropriate network policies. For instance, use Docker Secrets for managing sensitive configurations and set up reverse proxies with Nginx or Traefik for secure and scalable access to your services. Regularly update your containers to patch vulnerabilities and back up critical data to ensure reliability and data integrity. Monitoring and maintaining these services using tools like Grafana and Uptime Kuma can help you keep track of performance and availability. With Docker, you gain the flexibility to customize and scale your self-hosted environment to meet your needs efficiently.
+            FastAPI has become a popular framework for building high-performance APIs with Python, thanks to its simplicity, speed, and modern design. To create robust APIs, adhering to best practices is essential. One key practice is to keep your API structure modular and organized. By separating concerns into routers, models, and services, you can ensure that your codebase remains clean and scalable. Additionally, leveraging Pydantic models for data validation and type hints allows you to maintain clear, self-documenting code, reducing errors and making your API easier to maintain.
+            Adopting proven design patterns further enhances the quality of your API. For example, the dependency injection pattern simplifies handling dependencies like database connections, authentication, and external services. This not only keeps your code loosely coupled but also makes testing and scaling your API much more manageable. Implementing asynchronous programming is another essential practice in FastAPI, as it can greatly improve performance when dealing with I/O-bound operations like database queries or external API calls. By combining these best practices and design patterns, you can build high-quality, efficient, and scalable Python APIs with FastAPI.
         </item>
         <item>
-            Canva, a popular graphic design platform, has implemented several strategies to minimize trial cancellations and improve user retention. One key approach is their focus on providing a seamless onboarding experience for new users. By offering guided tutorials, templates, and personalized recommendations based on user preferences, Canva ensures that users quickly grasp the platforms core features and start creating designs immediately. This early success fosters a sense of value and encourages users to continue exploring the premium features, reducing the likelihood of cancellation.
-            Additionally, Canva uses targeted communication to engage users throughout their trial period. By sending personalized emails and in-app notifications, Canva keeps users informed about the benefits of upgrading to a paid plan, highlighting exclusive features such as premium templates, brand kits, and advanced editing tools. They also employ proactive customer support, offering help and resources when users encounter challenges. These efforts build trust and demonstrate Canva’s commitment to helping users achieve their goals, ultimately reducing trial cancellations and increasing conversions to paid plans.
+            Becoming a top-tier freelance web developer requires a blend of technical expertise, business acumen, and the ability to manage your own career. Mastering essential web development technologies like HTML, CSS, JavaScript, and popular frameworks such as React or Vue.js is the foundation of your skillset. However, what sets top freelancers apart is their ability to adapt to new trends, such as responsive design, API integration, and performance optimization, ensuring they stay competitive in a rapidly evolving industry. Continuous learning through online courses, hands-on projects, and staying active in developer communities will keep your skills sharp and in demand.
+            Equally important is mastering the business side of freelancing. Successful web developers understand how to market themselves, set competitive rates, and manage client relationships. Building a strong portfolio, networking with potential clients, and learning how to write effective proposals are crucial steps in securing steady work. Additionally, learning how to manage your time, handle taxes, and create contracts helps ensure long-term success. By combining strong technical skills with business savvy, you can position yourself as a top-tier freelance web developer, attracting high-paying clients and building a sustainable career.
         </item>
         <item>
-            In todays highly competitive business landscape, fast growth is often seen as the ultimate measure of success. Startups and companies alike strive for rapid expansion to capture market share and boost profitability. However, the pursuit of fast growth can sometimes come at a cost. Scaling too quickly without a solid foundation in place may lead to operational inefficiencies, poor customer service, and even burnout among employees. It’s important for businesses to recognize that sustainable growth—built on sound strategy, customer loyalty, and strong infrastructure—can often be more beneficial in the long run.
-            Moreover, fast growth can also obscure deeper issues within a company. When expanding rapidly, businesses may overlook problems such as unrefined processes, weak internal culture, or a lack of long-term vision. These underlying challenges can manifest later as the company faces greater demands, leading to instability or even failure. Therefore, it’s crucial for businesses to strike a balance between ambition and stability, ensuring that growth aligns with a clear mission and the resources necessary to sustain success over time.
+            Great software engineers are not just defined by their technical skills, but by the habits they cultivate throughout their careers. One key habit is continuous learning—technology evolves rapidly, and staying updated with new languages, frameworks, and best practices keeps engineers at the forefront of the industry. They also practice clean code principles, writing code that is readable, maintainable, and well-documented. This not only benefits the current project but also makes collaboration easier and ensures the codebase can be scaled or updated in the future.
+            Another vital habit is problem-solving with a user-first mindset. Great engineers focus on understanding user needs and build solutions that are not only technically sound but also intuitive and practical. Testing and debugging regularly is another hallmark, ensuring code works as expected before it reaches production. In addition, they are proactive in seeking feedback and conducting code reviews, which helps improve their own skills while ensuring team success. Time management, resilience, collaboration, and always seeking to optimize performance are also common habits that help software engineers excel and drive meaningful progress in their work.
         </item>
     </string-array>
 
@@ -104,11 +103,11 @@
         <item>100</item>
         <item>127</item>
         <item>449</item>
-        <item>345</item>
-        <item>4200</item>
-        <item>100</item>
-        <item>127</item>
-        <item>449</item>
+        <item>678</item>
+        <item>365</item>
+        <item>145</item>
+        <item>89</item>
+        <item>3000</item>
     </integer-array>
 
     <integer-array name="data_bookmark">
@@ -117,11 +116,11 @@
         <item>20</item>
         <item>10</item>
         <item>11</item>
-        <item>470</item>
-        <item>8900</item>
-        <item>20</item>
-        <item>10</item>
-        <item>11</item>
+        <item>560</item>
+        <item>32</item>
+        <item>25</item>
+        <item>12</item>
+        <item>115</item>
     </integer-array>
 
     <string-array name="data_read_time">
@@ -130,24 +129,24 @@
         <item>7 min read</item>
         <item>9 min read</item>
         <item>5 min read</item>
-        <item>5 min read</item>
-        <item>10 min read</item>
+        <item>6 min read</item>
+        <item>8 min read</item>
+        <item>13 min read</item>
+        <item>11 min read</item>
         <item>7 min read</item>
-        <item>9 min read</item>
-        <item>5 min read</item>
     </string-array>
 
     <string-array name="data_author_name">
-        <item>Joko Susanto</item>
-        <item>Budi Sudarman</item>
-        <item>Alex Sky</item>
+        <item>Ali Zeynalli</item>
+        <item>Nikita Sharda</item>
+        <item>Harendra</item>
         <item>Rosie Hoggmascall</item>
         <item>Jan Cavelle</item>
-        <item>Joko Susanto</item>
-        <item>Budi Sudarman</item>
-        <item>Alex Sky</item>
-        <item>Rosie Hoggmascall</item>
-        <item>Jan Cavelle</item>
+        <item>Jin</item>
+        <item>Gul Ershad</item>
+        <item>Lautaro Suarez</item>
+        <item>Rehan Pinjari</item>
+        <item>Dr. Derek Austin</item>
     </string-array>
 
     <string-array name="data_author_job">
@@ -156,23 +155,23 @@
         <item>Fullstack Engineer</item>
         <item>Senior Engineer</item>
         <item>Entrepreneur</item>
-        <item>Cloud Engineer</item>
-        <item>Tech Lead</item>
-        <item>Fullstack Engineer</item>
-        <item>Senior Engineer</item>
-        <item>Entrepreneur</item>
+        <item>Programmer</item>
+        <item>Senior Developer</item>
+        <item>Python Developer</item>
+        <item>Freelancer</item>
+        <item>Educator</item>
     </string-array>
 
     <string-array name="data_author_picture">
-        <item>https://picsum.photos/200</item>
-        <item>https://picsum.photos/200</item>
-        <item>https://picsum.photos/200</item>
+        <item>https://miro.medium.com/v2/resize:fill:88:88/1*HZ0bEi0UnqT2ntRWgtI8bQ.jpeg</item>
+        <item>https://miro.medium.com/v2/resize:fill:88:88/1*9RhBykzgML6uBwI0tF2Ryg.jpeg</item>
+        <item>https://miro.medium.com/v2/resize:fill:88:88/1*uTEzlRvlNBr3ralJoTQkmg.jpeg</item>
         <item>https://miro.medium.com/v2/resize:fill:96:96/1*3P6NKOdgCpW4rCXca1vHSQ.jpeg</item>
         <item>https://miro.medium.com/v2/resize:fill:88:88/1*Rpi5WoJsGiVCz-TY4V7unQ.jpeg</item>
-        <item>https://picsum.photos/200</item>
-        <item>https://picsum.photos/200</item>
-        <item>https://picsum.photos/200</item>
-        <item>https://miro.medium.com/v2/resize:fill:96:96/1*3P6NKOdgCpW4rCXca1vHSQ.jpeg</item>
-        <item>https://miro.medium.com/v2/resize:fill:88:88/1*Rpi5WoJsGiVCz-TY4V7unQ.jpeg</item>
+        <item>https://miro.medium.com/v2/resize:fill:88:88/1*p1kSL0td0AI_d1um7RSJog.jpeg</item>
+        <item>https://miro.medium.com/v2/resize:fill:88:88/2*G0-sHAzK9tUl-3lpSknQfg.jpeg</item>
+        <item>https://miro.medium.com/v2/da:true/resize:fill:88:88/0*SvXA2pKIM-Wi1Zix</item>
+        <item>https://miro.medium.com/v2/resize:fill:88:88/1*p-1UmWwNSx9lp9FZcAcPfg.png</item>
+        <item>https://miro.medium.com/v2/resize:fill:88:88/1*Ycih7sit-0tCvHiE2qpACg.jpeg</item>
     </string-array>
 </resources>
