@@ -11,6 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="end|bottom"
+        android:backgroundTint="@color/accent"
         android:layout_margin="16dp"
         android:contentDescription="@string/share"
         android:src="@drawable/baseline_ios_share_24"
@@ -43,10 +44,10 @@
                 android:id="@+id/article_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingTop="7dp"
                 android:paddingHorizontal="16dp"
-                android:textStyle="bold"
+                android:paddingTop="7dp"
                 android:textAppearance="@style/TextAppearance.Material3.TitleLarge"
+                android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/article_photo"
@@ -56,39 +57,39 @@
                 android:id="@+id/article_description"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingTop="4dp"
                 android:paddingHorizontal="16dp"
+                android:paddingTop="4dp"
                 android:textAppearance="@style/TextAppearance.Material3.BodyMedium"
                 android:textColor="@color/material_on_surface_emphasis_medium"
-                app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/article_title"
-                tools:text="@string/description"/>
+                tools:text="@string/description" />
 
             <include
                 android:id="@+id/article_statistics"
                 layout="@layout/article_statistics"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                app:layout_constraintTop_toBottomOf="@id/article_description"/>
+                app:layout_constraintTop_toBottomOf="@id/article_description" />
 
             <TextView
                 android:id="@+id/article_content"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingVertical="12dp"
                 android:paddingHorizontal="16dp"
+                android:paddingVertical="12dp"
                 android:textAppearance="@style/TextAppearance.Material3.BodyLarge"
-                app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/article_statistics"
-                tools:text="@string/article_content"/>
+                tools:text="@string/article_content" />
 
             <include
                 layout="@layout/article_author"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                app:layout_constraintTop_toBottomOf="@id/article_content"/>
+                app:layout_constraintTop_toBottomOf="@id/article_content" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 

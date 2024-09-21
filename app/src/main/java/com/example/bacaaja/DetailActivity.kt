@@ -62,10 +62,14 @@ class DetailActivity : AppCompatActivity(), View.OnClickListener {
             R.id.action_share -> {
                 val articleTitleText = binding.articleTitle.text.toString()
 
-                val shareIntent = Intent(Intent.ACTION_SEND)
-                shareIntent.type = "text/plain"
-                shareIntent.putExtra(EXTRA_SHARE, "Cek Artikel ini: $articleTitleText")
-                startActivity(Intent.createChooser(shareIntent, "Bagikan melalui"))
+                val sendIntent: Intent = Intent().apply {
+                    action = Intent.ACTION_SEND
+                    putExtra(Intent.EXTRA_TEXT, articleTitleText)
+                    type = "text/plain"
+                }
+
+                val shareIntent = Intent.createChooser(sendIntent, null)
+                startActivity(shareIntent)
             }
         }
     }

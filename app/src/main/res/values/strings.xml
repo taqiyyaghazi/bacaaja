@@ -21,6 +21,12 @@
         <item>Idempotency Keys in RESTful APIs</item>
         <item>11 Open-Source SaaS Killer—Selfhost With Docker</item>
         <item>How Canva reduces trial cancellation</item>
+        <item>Why Fast Growth Isn’t Always the Holy Grail</item>
+        <item>Fundamental Skills for becoming Performant Software Architect</item>
+        <item>Idempotency Keys in RESTful APIs</item>
+        <item>11 Open-Source SaaS Killer—Selfhost With Docker</item>
+        <item>How Canva reduces trial cancellation</item>
+        <item>Why Fast Growth Isn’t Always the Holy Grail</item>
     </string-array>
 
     <string-array name="data_description">
@@ -28,6 +34,12 @@
         <item>Building secure APIs</item>
         <item>Selfhost Supabase, Grafana, Uptime Kuma, NocoDB, Dokku, Appwrite, N8N, Redash, Jitsi, Plausible and Nextcloud with docker</item>
         <item>A round of applause for personalisation, transparency and trust</item>
+        <item>It can be one quick way to ruin a great start-up</item>
+        <item>Master Plan for becoming a Software Architect</item>
+        <item>Building secure APIs</item>
+        <item>Selfhost Supabase, Grafana, Uptime Kuma, NocoDB, Dokku, Appwrite, N8N, Redash, Jitsi, Plausible and Nextcloud with docker</item>
+        <item>A round of applause for personalisation, transparency and trust</item>
+        <item>It can be one quick way to ruin a great start-up</item>
     </string-array>
 
     <string-array name="data_photo">
@@ -35,7 +47,12 @@
         <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*Fe0kBRyNdgWGyV4c</item>
         <item>https://miro.medium.com/v2/resize:fill:160:106/1*kFosUQQC_vn4NOeZ57RYnw.png</item>
         <item>https://picsum.photos/200</item>
-        <!--        <item>https://miro.medium.com/v2/resize:fit:160:106/1*IfN_AwqFNXTrouTTjPkHrA.png</item>-->
+        <item>https://miro.medium.com/v2/resize:fill:160:106/1*rarN9kQWBfkRyofQq_JdkQ.jpeg</item>
+        <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*Xl9kecR3GVoGHEjn</item>
+        <item>https://miro.medium.com/v2/da:true/resize:fill:160:106/0*Fe0kBRyNdgWGyV4c</item>
+        <item>https://miro.medium.com/v2/resize:fill:160:106/1*kFosUQQC_vn4NOeZ57RYnw.png</item>
+        <item>https://picsum.photos/200</item>
+        <item>https://miro.medium.com/v2/resize:fill:160:106/1*rarN9kQWBfkRyofQq_JdkQ.jpeg</item>
     </string-array>
 
     <string-array name="data_content">
@@ -55,6 +72,30 @@
             Canva, a popular graphic design platform, has implemented several strategies to minimize trial cancellations and improve user retention. One key approach is their focus on providing a seamless onboarding experience for new users. By offering guided tutorials, templates, and personalized recommendations based on user preferences, Canva ensures that users quickly grasp the platforms core features and start creating designs immediately. This early success fosters a sense of value and encourages users to continue exploring the premium features, reducing the likelihood of cancellation.
             Additionally, Canva uses targeted communication to engage users throughout their trial period. By sending personalized emails and in-app notifications, Canva keeps users informed about the benefits of upgrading to a paid plan, highlighting exclusive features such as premium templates, brand kits, and advanced editing tools. They also employ proactive customer support, offering help and resources when users encounter challenges. These efforts build trust and demonstrate Canva’s commitment to helping users achieve their goals, ultimately reducing trial cancellations and increasing conversions to paid plans.
         </item>
+        <item>
+            In todays highly competitive business landscape, fast growth is often seen as the ultimate measure of success. Startups and companies alike strive for rapid expansion to capture market share and boost profitability. However, the pursuit of fast growth can sometimes come at a cost. Scaling too quickly without a solid foundation in place may lead to operational inefficiencies, poor customer service, and even burnout among employees. It’s important for businesses to recognize that sustainable growth—built on sound strategy, customer loyalty, and strong infrastructure—can often be more beneficial in the long run.
+            Moreover, fast growth can also obscure deeper issues within a company. When expanding rapidly, businesses may overlook problems such as unrefined processes, weak internal culture, or a lack of long-term vision. These underlying challenges can manifest later as the company faces greater demands, leading to instability or even failure. Therefore, it’s crucial for businesses to strike a balance between ambition and stability, ensuring that growth aligns with a clear mission and the resources necessary to sustain success over time.
+        </item>
+        <item>
+            Becoming a software architect requires a strategic blend of technical expertise, leadership skills, and a deep understanding of system design. The journey typically begins with mastering core programming concepts, design patterns, and data structures. As an aspiring architect, you should focus on becoming proficient in multiple programming languages and understanding the underlying principles of software engineering, including object-oriented design, microservices, and distributed systems. Practical experience with building scalable, maintainable, and efficient software solutions is crucial, alongside the ability to analyze trade-offs between various technologies and architectural approaches.
+            Beyond technical skills, aspiring architects must also hone their communication, problem-solving, and leadership abilities. A software architect often acts as a bridge between development teams, stakeholders, and clients, ensuring that the technical vision aligns with business goals. Gaining experience in team leadership, project management, and system documentation will help you navigate this role effectively. Staying up-to-date with industry trends, cloud computing, and emerging technologies is also essential for architects to make informed decisions and craft future-proof solutions.
+        </item>
+        <item>
+            Creating secure APIs is a critical task in modern software development, as APIs serve as gateways to your system\'s data and functionality. The foundation of API security begins with proper authentication and authorization, ensuring that only authorized users or systems can access specific resources. Common practices include implementing OAuth for token-based authentication, enforcing HTTPS for secure communication, and utilizing API keys or JWT tokens to authenticate requests. Rate limiting, IP whitelisting, and using strong encryption for sensitive data in transit and at rest further fortify the security of your API.
+            Another key aspect of building secure APIs is validating and sanitizing user input to protect against common vulnerabilities such as SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF). Proper error handling and logging are also essential for identifying potential threats while avoiding exposing sensitive information in error messages. Regular security audits, adopting secure coding practices, and integrating automated security testing in your CI/CD pipeline can help maintain the integrity of your API as your system grows and evolves.
+        </item>
+        <item>
+            Self-hosting a suite of applications such as Supabase, Grafana, Uptime Kuma, NocoDB, Dokku, Appwrite, N8N, Redash, Jitsi, Plausible, and Nextcloud can be efficiently managed using Docker. Docker\'s containerization technology allows you to encapsulate each application along with its dependencies into isolated containers, simplifying deployment and management. Begin by setting up a Docker environment on your server, ensuring you have Docker and Docker Compose installed. For each application, create Docker Compose files that define the necessary services, networks, and volumes to orchestrate the containers. This approach enables you to deploy and manage each application with ease, while also maintaining clear separation between them.
+            Configuring and securing your self-hosted applications involves setting up environment variables, securing sensitive data, and implementing appropriate network policies. For instance, use Docker Secrets for managing sensitive configurations and set up reverse proxies with Nginx or Traefik for secure and scalable access to your services. Regularly update your containers to patch vulnerabilities and back up critical data to ensure reliability and data integrity. Monitoring and maintaining these services using tools like Grafana and Uptime Kuma can help you keep track of performance and availability. With Docker, you gain the flexibility to customize and scale your self-hosted environment to meet your needs efficiently.
+        </item>
+        <item>
+            Canva, a popular graphic design platform, has implemented several strategies to minimize trial cancellations and improve user retention. One key approach is their focus on providing a seamless onboarding experience for new users. By offering guided tutorials, templates, and personalized recommendations based on user preferences, Canva ensures that users quickly grasp the platforms core features and start creating designs immediately. This early success fosters a sense of value and encourages users to continue exploring the premium features, reducing the likelihood of cancellation.
+            Additionally, Canva uses targeted communication to engage users throughout their trial period. By sending personalized emails and in-app notifications, Canva keeps users informed about the benefits of upgrading to a paid plan, highlighting exclusive features such as premium templates, brand kits, and advanced editing tools. They also employ proactive customer support, offering help and resources when users encounter challenges. These efforts build trust and demonstrate Canva’s commitment to helping users achieve their goals, ultimately reducing trial cancellations and increasing conversions to paid plans.
+        </item>
+        <item>
+            In todays highly competitive business landscape, fast growth is often seen as the ultimate measure of success. Startups and companies alike strive for rapid expansion to capture market share and boost profitability. However, the pursuit of fast growth can sometimes come at a cost. Scaling too quickly without a solid foundation in place may lead to operational inefficiencies, poor customer service, and even burnout among employees. It’s important for businesses to recognize that sustainable growth—built on sound strategy, customer loyalty, and strong infrastructure—can often be more beneficial in the long run.
+            Moreover, fast growth can also obscure deeper issues within a company. When expanding rapidly, businesses may overlook problems such as unrefined processes, weak internal culture, or a lack of long-term vision. These underlying challenges can manifest later as the company faces greater demands, leading to instability or even failure. Therefore, it’s crucial for businesses to strike a balance between ambition and stability, ensuring that growth aligns with a clear mission and the resources necessary to sustain success over time.
+        </item>
     </string-array>
 
     <integer-array name="data_like">
@@ -62,6 +103,12 @@
         <item>4200</item>
         <item>100</item>
         <item>127</item>
+        <item>449</item>
+        <item>345</item>
+        <item>4200</item>
+        <item>100</item>
+        <item>127</item>
+        <item>449</item>
     </integer-array>
 
     <integer-array name="data_bookmark">
@@ -69,6 +116,12 @@
         <item>8900</item>
         <item>20</item>
         <item>10</item>
+        <item>11</item>
+        <item>470</item>
+        <item>8900</item>
+        <item>20</item>
+        <item>10</item>
+        <item>11</item>
     </integer-array>
 
     <string-array name="data_read_time">
@@ -76,6 +129,12 @@
         <item>10 min read</item>
         <item>7 min read</item>
         <item>9 min read</item>
+        <item>5 min read</item>
+        <item>5 min read</item>
+        <item>10 min read</item>
+        <item>7 min read</item>
+        <item>9 min read</item>
+        <item>5 min read</item>
     </string-array>
 
     <string-array name="data_author_name">
@@ -83,6 +142,12 @@
         <item>Budi Sudarman</item>
         <item>Alex Sky</item>
         <item>Rosie Hoggmascall</item>
+        <item>Jan Cavelle</item>
+        <item>Joko Susanto</item>
+        <item>Budi Sudarman</item>
+        <item>Alex Sky</item>
+        <item>Rosie Hoggmascall</item>
+        <item>Jan Cavelle</item>
     </string-array>
 
     <string-array name="data_author_job">
@@ -90,6 +155,12 @@
         <item>Tech Lead</item>
         <item>Fullstack Engineer</item>
         <item>Senior Engineer</item>
+        <item>Entrepreneur</item>
+        <item>Cloud Engineer</item>
+        <item>Tech Lead</item>
+        <item>Fullstack Engineer</item>
+        <item>Senior Engineer</item>
+        <item>Entrepreneur</item>
     </string-array>
 
     <string-array name="data_author_picture">
@@ -97,5 +168,11 @@
         <item>https://picsum.photos/200</item>
         <item>https://picsum.photos/200</item>
         <item>https://miro.medium.com/v2/resize:fill:96:96/1*3P6NKOdgCpW4rCXca1vHSQ.jpeg</item>
+        <item>https://miro.medium.com/v2/resize:fill:88:88/1*Rpi5WoJsGiVCz-TY4V7unQ.jpeg</item>
+        <item>https://picsum.photos/200</item>
+        <item>https://picsum.photos/200</item>
+        <item>https://picsum.photos/200</item>
+        <item>https://miro.medium.com/v2/resize:fill:96:96/1*3P6NKOdgCpW4rCXca1vHSQ.jpeg</item>
+        <item>https://miro.medium.com/v2/resize:fill:88:88/1*Rpi5WoJsGiVCz-TY4V7unQ.jpeg</item>
     </string-array>
 </resources>
